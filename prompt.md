@@ -17,3 +17,7 @@
 生成一份新的文档。
 
 
+# OOD
+
+启用审议式OOD流程，针对如下需求开展OOD设计：
+docs\1_requirements.md
